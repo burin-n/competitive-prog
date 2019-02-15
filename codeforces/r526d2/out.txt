@@ -1,0 +1,25 @@
+
+at 1 gas 0
+at 2 gas -4
+from 1 to 2 cost 0
+at 5 gas 5
+from 1 to 5 cost 5
+
+at 2 gas 0
+at 1 gas -7
+from 2 to 1 cost 0
+at 3 gas 0
+from 2 to 3 cost 2
+at 4 gas 2
+from 2 to 4 cost 7
+
+at 3 gas 0
+
+at 4 gas 0
+
+at 5 gas 0
+7
+
+6 7 2 7 5 
+
+1 1 1 1 1 
